@@ -1,0 +1,78 @@
+.bor {
+    border-right: 1px solid #d6cbcbe0;
+    height: 100vh;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+.butclr {
+    background-color: #FDF0EC !important;
+}
+
+.tx {
+    color: brown !important;
+}
+
+.mg {
+    padding-top: 240px;
+}
+
+.pic{
+    background-image: url(images/fixed-height\ sec-.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 5vh;
+    width: 22%;
+    border-radius: 50%;
+}
+
+.wd{
+    width: 90% !important;
+}
+
+.do{
+    width: 5px;
+    height: 5px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+    right: 12px;
+    bottom: 4px;
+}
+
+.br{
+    border-bottom: 1px solid #d6cbcbe0 !important;
+    width: 100%;
+}
+.clr1{
+    background-color: 
+    #dae2fbd7 !important;
+}
+.border1{
+    border: 1px solid black;
+}
+.bgclr{
+    background-color: #a9b9e9d7;
+}
+.bgclr2{
+    background-color: 
+    #FFE4C2 !important;
+}
+.bgclr3{
+    background-color: 
+    #FAD0C6 !important;
+}
+@media screen and (max-width:700px) {
+
+    .media1{
+        display: none;
+    }
+    .media2{
+        
+    }
+    
+}
